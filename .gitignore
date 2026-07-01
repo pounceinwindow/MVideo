@@ -1,0 +1,16 @@
+[Bb]in/
+[Oo]bj/
+
+.idea/
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+
+.DS_Store
+
+.env
+appsettings.Local.json
+appsettings.*.Local.json
+secrets.json
